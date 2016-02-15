@@ -1,3 +1,3 @@
 # CmdServersAndClients
 Some basic servers and clients that work on command prompt. C#.
-Made for the course "Tietoverkot".
+Made for the course "Tietoverkot" ("Networks") in University of Jyväskylä.
